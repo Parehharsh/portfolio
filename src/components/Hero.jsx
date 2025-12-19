@@ -1,6 +1,6 @@
 import React from 'react';
 import { ArrowRight, Download, Linkedin, Github, Mail } from 'lucide-react';
-import profileImg from '../assets/profile.jpg';
+import profileImg from '../assets/profile.jpeg';
 
 const Hero = () => {
   const handleScroll = (e, id) => {
@@ -43,7 +43,7 @@ const Hero = () => {
               </a>
               
               <a 
-                href="https://drive.google.com/file/d/1p38B0eb6SAP6r7N8fjhCeZuZTN2WJKRr/view?usp=sharing" 
+                href="https://drive.google.com/file/d/1Y5cXnDxGP6b1nxIq3XhC_-ixWCJTJI1m/view?usp=sharing" 
                 className="w-full sm:w-auto px-8 py-4 bg-white dark:bg-gray-900 text-gray-800 dark:text-gray-200 font-bold rounded-xl border border-gray-200 dark:border-gray-800 shadow-sm hover:bg-gray-50 dark:hover:bg-gray-800 hover:border-gray-300 transition-all duration-300 flex items-center justify-center gap-2"
               >
                 Download Resume <Download size={20} />
