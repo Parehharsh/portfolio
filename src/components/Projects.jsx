@@ -35,7 +35,7 @@ const Projects = () => {
         'Responsive React frontend'
       ],
       links: {
-        demo: '',
+        demo: 'https://full-stack-ecommerce-frontends.vercel.app/',
         github: 'https://github.com/Parehharsh/full-stack-Ecommerce.git'
       }
     }
